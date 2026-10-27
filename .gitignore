@@ -1,0 +1,17 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
